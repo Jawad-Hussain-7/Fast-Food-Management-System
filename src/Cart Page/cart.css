@@ -1,0 +1,44 @@
+section {
+    padding: 5% 0px;
+    background-color: black;
+}
+
+table {
+    border-spacing: 50px 20px;
+    color: white;
+}
+
+
+button {
+    margin: 0px 1%;
+    background-color: #660000;
+    border: 1px solid #660000;
+    margin-top: 1%;
+    font-size: 18px;
+    color: white;
+    padding: 0.8% 5%;
+    border-radius: 5px;
+    width: 20%;
+}
+
+input {
+    font-size: 16px;
+    padding: 1%;
+    width: 100%;
+}
+
+section {
+    margin: 2% 20%;
+    background-color: #191919;
+    text-align: center;
+}
+
+th{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+td{
+    font-size: 16px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
