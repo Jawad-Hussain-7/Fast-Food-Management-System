@@ -1,0 +1,20 @@
+section {
+    background-color: #333030;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 4% 2%;
+    color: white;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: #660000;
+}
+h2 {
+    text-align: left;
+    color: #660000;
+}
+div {
+    background-color: #4b4a4a;
+    padding:1% 0.5%;
+}
